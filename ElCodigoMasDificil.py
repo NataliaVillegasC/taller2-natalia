@@ -12,3 +12,8 @@ def fibonacci(n):
         print(a, end=' ')
         a, b = b, a+b
     print()
+    
+def carol():
+    print("Soy carol")
+
+carol()
